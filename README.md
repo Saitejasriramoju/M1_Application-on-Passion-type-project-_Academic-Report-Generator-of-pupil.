@@ -7,6 +7,8 @@
 3.Confusion created by the paper work can be solved with this type of techniques.
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+
 ## State Of Art:
 1.In our childhood our teachers used to give our marks of our exams through papers,and they used to give an overall report card which is  manually made.
 -------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -14,6 +16,8 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 3.So bringing the changes in veiw point of the children i took this project as my aim
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 ## 4W AND 1H:
 ### 1.WHY?
@@ -32,6 +36,8 @@ Our project is mainly used for the primary school teachers where they have to pr
 By using the c programming language we generate this report card
 ------------------------------------------------------------------
 
+
+
 ## SWOT Analysis
 ### 1.STRENGTH
 With our project we can store the data for very longer time and we can easily acces tha data whenever we want.
@@ -45,5 +51,6 @@ we can develop our project usage in each and every schools by making them to und
 ### 4.THREAT
 Always we need to be update with the technology in order to be intuite to the clients and need to implement the chanhged whenver needed otherwise it may lead to misusage.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
