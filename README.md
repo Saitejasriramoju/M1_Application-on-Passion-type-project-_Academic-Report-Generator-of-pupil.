@@ -38,7 +38,7 @@ By using the c programming language we generate this report card
 
 
 
-## SWOT Analysis
+## **SWOT Analysis:**
 ### 1.STRENGTH
 With our project we can store the data for very longer time and we can easily acces tha data whenever we want.
 --------------------------------------------------------------------------------------------------------------
