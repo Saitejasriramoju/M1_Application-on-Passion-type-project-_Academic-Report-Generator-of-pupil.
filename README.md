@@ -52,5 +52,14 @@ we can develop our project usage in each and every schools by making them to und
 Always we need to be update with the technology in order to be intuite to the clients and need to implement the chanhged whenver needed otherwise it may lead to misusage.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+### Requirements:
+#### |High Level Requirements|### Low Level Requirements|
+     |---|---|
+     |1.Student id| 1.student Class|
+     |2.Student name|2.student age|
+     |3.Marks|3.Gender|
+     |4.Calculation formulas|4.Grade|
+     
+
 
 
