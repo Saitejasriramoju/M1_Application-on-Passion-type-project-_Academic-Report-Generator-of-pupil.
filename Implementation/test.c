@@ -31,11 +31,11 @@ void main() {
 	printf("Subject             Max      Min            Obt.Marks\n");
 	printf("---------------------------------------------------\n");
 	printf("Telugu                100      36              %d\n",s1);
-	printf("Hindi              100      36              %d\n",s2);
+	printf("Hindi                 100      36              %d\n",s2);
 	printf("English               100      36              %d\n",s3);
-     printf("Maths              100      36              %d\n",s3);
-     printf("Science             100      36              %d\n",s3);
-     printf("Social            100      36              %d\n",s3);
+     printf("Maths                    100      36              %d\n",s4);
+     printf("Science                  100      36              %d\n",s5);
+     printf("Social                   100      36              %d\n",s6);
  printf("---------------------------------------------------\n");
 	printf("				  Total          %d\n",t);
 	printf("per  %f\t\t\t  div: %s \n",per,div);
