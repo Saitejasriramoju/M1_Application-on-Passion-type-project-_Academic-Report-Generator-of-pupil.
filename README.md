@@ -10,4 +10,3 @@
 [![Git Inspector](https://github.com/Saitejasriramoju/M1_Application-on-Passion-type-project-_Academic-Report-Generator-of-pupil./actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Saitejasriramoju/M1_Application-on-Passion-type-project-_Academic-Report-Generator-of-pupil./actions/workflows/c-cpp.yml)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Git Inspector](https://github.com/Saitejasriramoju/M1_Application-on-Passion-type-project-_Academic-Report-Generator-of-pupil./actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Saitejasriramoju/M1_Application-on-Passion-type-project-_Academic-Report-Generator-of-pupil./actions/workflows/c-cpp.yml)
