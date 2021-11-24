@@ -1,4 +1,7 @@
 # M1_Application-on-Passion-type-project-_Academic-Report-Generator-of-pupil.
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4d3aefe43cf14adfaa0fb440aa98210d)](https://app.codacy.com/gh/Saitejasriramoju/M1_Application-on-Passion-type-project-_Academic-Report-Generator-of-pupil.?utm_source=github.com&utm_medium=referral&utm_content=Saitejasriramoju/M1_Application-on-Passion-type-project-_Academic-Report-Generator-of-pupil.&utm_campaign=Badge_Grade_Settings)
+
 ## Features:
 1.Every Class Teacher or Lecturer in schools can easily generate the student report of their academics with very ease and they can save a lot of time.
 ------------------------------------------------------------------------------------------------------------------------------------------------------
