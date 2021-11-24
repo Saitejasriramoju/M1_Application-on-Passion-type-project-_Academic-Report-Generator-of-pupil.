@@ -14,4 +14,6 @@
 | Enter practical marks || lies between 1-20    | 15              | 15            | 
 ----------------------------------------------------------------------------------
 
+# output:
+![output of code](https://user-images.githubusercontent.com/94299225/143308749-f6277387-9c2b-461a-8d84-98011fea3fa2.png)
 
